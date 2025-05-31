@@ -26,7 +26,7 @@ Resources:
       CodeUri: .
       Environment:
         Variables:
-          TABLE_NAME: resume-experience-linda   # Replace "guillermo" with your name
+          TABLE_NAME: resume-experience-linda   # Replace "guillermo" with your name ok 
       Policies:
         - DynamoDBReadPolicy:
             TableName: resume-experience-linda  # Replace "guillermo" with your name
